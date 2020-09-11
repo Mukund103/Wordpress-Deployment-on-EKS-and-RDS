@@ -12,8 +12,8 @@
 <b>aws eks update-kubeconfig --name cluster1 -r ap-southeast-1</b>
 </br>
 #Create DB instance and deploy Wordpress over EKS Cluster using terraform
-</br>
-<b>terraform init
+
+<b>terraform init</b>
 </br>
 <b>terraform apply --auto-approve  </b>
 </br>
