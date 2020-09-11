@@ -1,6 +1,6 @@
 # Wordpress-Deployment-on-EKS-and-RDS
 #To create eks cluster
-eksctl create cluster -f cluster.yaml
+<md>eksctl create cluster -f cluster.yaml
 
 #check if cluster created
 eksctl get cluster -r ap-southeast-1
